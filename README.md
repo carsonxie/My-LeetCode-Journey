@@ -2,9 +2,10 @@
 _This will be a long yet interesting journey._
 
 ----
-By Problems number
+# | Title | Difficulty
+--|-------|-------------
 
-1. [two sum](https://github.com/carsonxie/LeetCode-stuff/blob/master/notes/1_twosum.md)
+1 | [two sum](https://github.com/carsonxie/LeetCode-stuff/blob/master/notes/1_twosum.md)| Easy
 
 
 ----
