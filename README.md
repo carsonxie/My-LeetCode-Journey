@@ -4,6 +4,5 @@ _This will be a long yet interesting journey._
 ----
 Number # | Title | Difficulty
 --|-------|-------------
-
 1 | [two sum](https://github.com/carsonxie/LeetCode-stuff/blob/master/notes/1_twosum.md)| Easy
 
