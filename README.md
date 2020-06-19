@@ -5,7 +5,7 @@ _:sparkles: :rocket: :metal: :octocat:_
 ----
 Number # | Title | Difficulty
 --|-------|-------------
-1| [two sum](https://github.com/carsonxie/LeetCode-stuff/blob/master/notes/1_twosum.md)| Easy
+1| [two sum](../blob/master/notes/1_twosum.md)| Easy
 7| [Reverse Integer]() | Easy
 9| [Palindrome Number ]() | Easy
 13| [Roman to Integer]() | Easy
