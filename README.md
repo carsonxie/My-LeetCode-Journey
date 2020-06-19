@@ -5,7 +5,7 @@ _:sparkles: :rocket: :metal: :octocat:_
 ----
 Number # | Title | Difficulty
 --|-------|-------------
-1| [two sum](../1_twosum.md)| Easy
+1| [two sum](../master/notes/1_twosum.md)| Easy
 7| [Reverse Integer]() | Easy
 9| [Palindrome Number ]() | Easy
 13| [Roman to Integer]() | Easy
