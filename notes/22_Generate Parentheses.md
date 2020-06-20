@@ -1,8 +1,8 @@
-1.using recursion\
+1.using recursion and backtrack.\
 1.1 things to check at each recursion: l, r remaning.
   
-2. write the generate barckets process as growing a binary tree. 
-the root is valid barcket satrt '(', at each left , right child your can add '(' or ')'
+2. Write the generate barckets process as growing a binary tree. \
+The root is valid barcket satrt '(', at each left , right child your can add '(' or ')'
 leaf node must be all valid brackets.
 
 ```python
