@@ -1,5 +1,5 @@
-1.using recursion
-  1.1 things to check at each recursion: l, r remaning
+1.using recursion\
+1.1 things to check at each recursion: l, r remaning.
   
 2. write the generate barckets process as growing a binary tree. 
 the root is valid barcket satrt '(', at each left , right child your can add '(' or ')'
