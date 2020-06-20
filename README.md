@@ -14,4 +14,4 @@ Number # | Title | Difficulty
 21| [Merge Two Sorted Lists]() | Easy
 26| [Remove Duplicates from Sorted Array]()| Easy
 142| [Linked List Cycle II]() | Medium
-22| [Generate Parentheses]()|Medium
+22| [Generate Parentheses](../master/notes/22_Generate%20Parentheses.md)|Medium
