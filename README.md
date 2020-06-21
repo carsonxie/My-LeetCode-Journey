@@ -1,5 +1,5 @@
 # My LeetCode Solution
-_This will be a long yet interesting journey._
+
 _:sparkles: :rocket: :metal: :octocat:_
 
 ----
