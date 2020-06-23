@@ -16,3 +16,4 @@ Number # | Title | Difficulty
 142| [Linked List Cycle II]() | Medium
 22| [Generate Parentheses](../master/notes/22_Generate%20Parentheses.md)|Medium
 27 | [Remove Element]()| Easy
+3 | [Longest Substring Without Repeating Characters](../master/notes/3_Longest%20Substring%20Without%20Repeating%20Characters.md) | Medium
