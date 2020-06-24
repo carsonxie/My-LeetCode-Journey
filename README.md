@@ -20,6 +20,7 @@ Number # | Title | Difficulty
 91 | [Decode Ways](../master/notes/91_Decode%20Ways.md) | Medium
 
 -----------
+-----------
 
 # 程序员代码面试指南 笔记
-### 第一章 [栈和队列]()
+### 第一章 [栈和队列](../master/程序员代码面试指南_笔记/1_栈和队列.md)
