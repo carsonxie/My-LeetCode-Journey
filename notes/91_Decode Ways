@@ -1,6 +1,6 @@
 ###Appoarch 1
 recursion, exceeded time limit
-```python3 class Solution:
+```python class Solution:
     def numDecodings(self, s: str) -> int:
         
         str = s
