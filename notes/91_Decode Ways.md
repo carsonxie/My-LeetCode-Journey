@@ -1,4 +1,4 @@
-###Appoarch 1
+### Appoarch 1
 recursion, exceeded time limit
 ```python class Solution:
     def numDecodings(self, s: str) -> int:
@@ -29,3 +29,4 @@ recursion, exceeded time limit
         return count
     
         ```
+### Appoarch 2 Try Dp
