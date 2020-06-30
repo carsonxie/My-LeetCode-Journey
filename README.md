@@ -19,7 +19,7 @@ Number # | Title | Difficulty
 3 | [Longest Substring Without Repeating Characters](../master/notes/3_Longest%20Substring%20Without%20Repeating%20Characters.md) | Medium
 91 | [Decode Ways](../master/notes/91_Decode%20Ways.md) | Medium
 46 | [Permutations](../master/notes/46_Permutations.md) | Medium
-
+38 | [Count and Say](../master/notes/38_Count%20and520Say.md) | Easy
 
 
 -----------
