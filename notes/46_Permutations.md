@@ -47,8 +47,55 @@ class Solution:
                 result.append([num] + y)
         return result
         
-
-
-
-
 ```
+Output:
+i is  0
+n is [2, 3]
+i is  0
+n is [3]
+base case [3]
+y is  [3]
+restult # [[2, 3]]
+i is  1
+n is [2]
+base case [2]
+y is  [2]
+restult # [[2, 3], [3, 2]]
+y is  [2, 3]
+restult # [[1, 2, 3]]
+y is  [3, 2]
+restult # [[1, 2, 3], [1, 3, 2]]
+i is  1
+n is [1, 3]
+i is  0
+n is [3]
+base case [3]
+y is  [3]
+restult # [[1, 3]]
+i is  1
+n is [1]
+base case [1]
+y is  [1]
+restult # [[1, 3], [3, 1]]
+y is  [1, 3]
+restult # [[1, 2, 3], [1, 3, 2], [2, 1, 3]]
+y is  [3, 1]
+restult # [[1, 2, 3], [1, 3, 2], [2, 1, 3], [2, 3, 1]]
+i is  2
+n is [1, 2]
+i is  0
+n is [2]
+base case [2]
+y is  [2]
+restult # [[1, 2]]
+i is  1
+n is [1]
+base case [1]
+y is  [1]
+restult # [[1, 2], [2, 1]]
+y is  [1, 2]
+restult # [[1, 2, 3], [1, 3, 2], [2, 1, 3], [2, 3, 1], [3, 1, 2]]
+y is  [2, 1]
+restult # [[1, 2, 3], [1, 3, 2], [2, 1, 3], [2, 3, 1], [3, 1, 2], [3, 2, 1]]
+
+
