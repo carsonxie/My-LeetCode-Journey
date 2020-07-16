@@ -52,7 +52,8 @@ The public keyword is an access modifier, meaning that it is used to set the acc
 
 We divide modifiers into two groups:
 
-| Access Modifiers | controls the access level
+| Access Modifiers | controls the access level |
+-- | --------------------------------
 *public*	| The code is accessible for all classes	
 *private*	| The code is only accessible within the declared class	
 *default* |	The code is only accessible in the same package. This is used when you don't specify a modifier.
