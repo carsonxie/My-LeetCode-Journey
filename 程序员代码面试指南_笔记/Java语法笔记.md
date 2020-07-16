@@ -52,12 +52,12 @@ The public keyword is an access modifier, meaning that it is used to set the acc
 
 We divide modifiers into two groups:
 
-#### Access Modifiers - controls the access level
-##### *public*	The code is accessible for all classes	
-##### *private*	The code is only accessible within the declared class	
-##### *default*	The code is only accessible in the same package. This is used when you don't specify a modifier.
-##### *protected*	The code is accessible in the same package and subclasses. 
+Access Modifiers | controls the access level
+ *public*	| The code is accessible for all classes	
+ *private*	| The code is only accessible within the declared class	
+ *default* |	The code is only accessible in the same package. This is used when you don't specify a modifier.
+ *protected*	| The code is accessible in the same package and subclasses. 
 
-#### Non-Access Modifiers - do not control access level, but provides other functionality
-##### *final*	The class cannot be inherited by other classes 
-##### *abstract*	The class cannot be used to create objects (To access an abstract class, it must be inherited from another class.)
+Non-Access Modifiers | do not control access level, but provides other functionality
+*final*	| The class cannot be inherited by other classes 
+ *abstract*	| The class cannot be used to create objects (To access an abstract class, it must be inherited from another class.)
