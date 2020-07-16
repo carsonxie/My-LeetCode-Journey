@@ -24,6 +24,6 @@ Number # | Title | Difficulty
 
 -----------
 -----------
-##剑指offer Java版本
-[6_从尾到头打印链表](../master/剑指offer_java版/6_从尾到头打印链表.md)
-[9_两个栈实现队列](../master/剑指offer_java版/9_两个栈实现队列.md)
+## 剑指offer Java版本
+6 | [从尾到头打印链表](../master/剑指offer_java版/6_从尾到头打印链表.md)
+9 | [两个栈实现队列](../master/剑指offer_java版/9_两个栈实现队列.md)
