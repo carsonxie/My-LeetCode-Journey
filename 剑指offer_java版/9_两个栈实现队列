@@ -1,0 +1,33 @@
+### 思路不清晰的话,画图就能很好解决. 把S1区别弹出,压入s2, s2在从顶部弹出,顺序就是先进先出了,如果s2不为空 先弹出 压入s1,在开始上面的操作
+
+```java
+import java.util.Stack;
+/**
+Use two stack to make queue operation
+2020-07-15
+*/
+public class Solution {
+    Stack<Integer> stack1 = new Stack<Integer>();
+    Stack<Integer> stack2 = new Stack<Integer>();
+    
+    public void push(int node) {
+        stack1.push(node);
+        
+    }
+    
+    public int pop() {
+        if (stack2.isEmpty()  && stack1.isEmpty()){
+            throw new RuntimeException("queue is empty");
+        }
+        //push all stack1 elements into s2, s2 must be empty
+        if (stack2.isEmpty()){
+            while(!stack1.isEmpty()){
+                stack2.push(stack1.pop());
+            }
+        }
+        
+        return stack2.pop();
+    
+    }
+}
+```
