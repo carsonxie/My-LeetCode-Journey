@@ -1,4 +1,4 @@
-```
+```java
 /**
 Use two stack, one store data, one store min value
     push: if min stack is empty,push to both stack
