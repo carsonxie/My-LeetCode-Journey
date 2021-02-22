@@ -1,4 +1,4 @@
-# My LeetCode Solution
+# LeetCode Solution
 
 _:sparkles: :rocket: :metal: :octocat:_
 
@@ -24,8 +24,8 @@ Number # | Title | Difficulty
 
 -----------
 -----------
-## 剑指offer Java版本
-编号 | 题目 |
+-## 剑指offer Java版本
+-编号 | 题目 |
 --|-------|
-6 | [从尾到头打印链表](../master/剑指offer_java版/6_从尾到头打印链表.md)
-9 | [两个栈实现队列](../master/剑指offer_java版/9_两个栈实现队列.md)
+-6 | [从尾到头打印链表](../master/剑指offer_java版/6_从尾到头打印链表.md)
+-9 | [两个栈实现队列](../master/剑指offer_java版/9_两个栈实现队列.md)
