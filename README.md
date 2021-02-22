@@ -58,16 +58,21 @@ Number # | Title | Difficulty
 
 -----------
 #### Dynamic Programming
-
+*
+*
 
 
 
 -----------
 #### String
 *
+*
+*
 
 -----------
 #### Top Interviews Question- Hard
+*
+*
 
 
 
