@@ -26,50 +26,48 @@ Number # | Title | Difficulty
 -----------
 -----------
 ### By Topic
-
 #### Array and Matrix
 * [200. Number of Islands]()
 * 
 
------------
+
 ####  Stack and Queue
 *
 *
 
------------
+
 #### Linked List 
 *
 
 
------------
+
 #### Tree
 *
 
 
------------
+
 #### DFS BFS
 *
 
------------
+
 #### Two Pointers
 *
 
 
 
------------
+
 #### Dynamic Programming
 *
 *
 
 
 
------------
 #### String
 *
 *
 *
 
------------
+
 #### Top Interviews Question- Hard
 *
 *
