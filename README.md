@@ -32,14 +32,42 @@ Number # | Title | Difficulty
 * 
 
 -----------
+####  Stack and Queue
+*
+*
+
+-----------
 #### Linked List 
+*
+
+
+-----------
+#### Tree
+*
+
+
+-----------
+#### DFS BFS
+*
+
+-----------
+#### Two Pointers
+*
+
+
+
+-----------
+#### Dynamic Programming
 
 
 
 
+-----------
+#### String
+*
 
-
-
+-----------
+#### Top Interviews Question- Hard
 
 
 
