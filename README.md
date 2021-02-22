@@ -3,6 +3,7 @@
 _:sparkles: :rocket: :metal: :octocat:_
 
 ----
+-- By finishing number.
 Number # | Title | Difficulty
 --|-------|-------------
 1| [two sum](../master/notes/1_twosum.md)| Easy
@@ -24,6 +25,24 @@ Number # | Title | Difficulty
 
 -----------
 -----------
+-By Topic-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!---## 剑指offer Java版本
 -编号 | 题目 |
 --|-------|
