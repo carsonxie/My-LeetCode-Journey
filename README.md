@@ -3,7 +3,7 @@
 _:sparkles: :rocket: :metal: :octocat:_
 
 ----
-### By finishing number.
+### Part 1 Top 100 Likes 
 Number # | Title | Difficulty
 --|-------|-------------
 1| [two sum](../master/notes/1_twosum.md)| Easy
