@@ -24,9 +24,9 @@ Number # | Title | Difficulty
 
 
 ### Part 2(A coding web course)
- # | Title | Difficulty| leetcode
+#/lc# | Title | leetcode
 ----|-------|----------|
-1/1|
+1/1|valid bst|(https://leetcode.com/problems/validate-binary-search-tree/)
 
 <!--
 -----------
