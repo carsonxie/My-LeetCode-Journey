@@ -22,6 +22,12 @@ Number # | Title | Difficulty
 46 | [Permutations](../master/notes/46_Permutations.md) | Medium
 38 | [Count and Say](../master/notes/38_Count%20and520Say.md) | Easy
 
+
+### Part 2(A coding web course)
+ # | Title | Difficulty| leetcode
+----|-------|----------|
+1/1|
+
 <!--
 -----------
 -----------
