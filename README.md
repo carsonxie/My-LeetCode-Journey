@@ -26,7 +26,15 @@ Number # | Title | Difficulty
 ### Part 2(A coding web course)
 #/lc# | Title | leetcode
 ----|-------|----------|
-1/1|valid bst|(https://leetcode.com/problems/validate-binary-search-tree/)
+1/98|valid bst|(https://leetcode.com/problems/validate-binary-search-tree/)
+2/
+
+
+
+
+
+
+
 
 <!--
 -----------
@@ -36,11 +44,9 @@ Number # | Title | Difficulty
 * [200. Number of Islands]()
 * 
 
-
 ####  Stack and Queue
 *
 *
-
 
 #### Linked List 
 *
@@ -60,31 +66,18 @@ Number # | Title | Difficulty
 *
 
 
-
-
 #### Dynamic Programming
 *
 *
-
-
-
 #### String
 *
 *
 *
 
-
 #### Top Interviews Question- Hard
 *
 *
 --->
-
-
-
-
-
-
-
 
 <!---## 剑指offer Java版本
 -编号 | 题目 |
