@@ -26,7 +26,7 @@ Number # | Title | Difficulty
 ### Part 2(A coding web course)
 #/lc# | Title | leetcode
 ----|-------|----------|
-1/98|valid bst|(https://leetcode.com/problems/validate-binary-search-tree/)
+1/98|[valid bst](../master/coder%20pro/1_valid_bst.py)|(https://leetcode.com/problems/validate-binary-search-tree/)
 2/
 
 
