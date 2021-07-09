@@ -22,7 +22,7 @@ Number # | Title | Difficulty
 46 | [Permutations](../master/notes/46_Permutations.md) | Medium
 38 | [Count and Say](../master/notes/38_Count%20and520Say.md) | Easy
 
-
+<!--
 -----------
 -----------
 ### By Topic
@@ -71,7 +71,7 @@ Number # | Title | Difficulty
 #### Top Interviews Question- Hard
 *
 *
-
+--->
 
 
 
