@@ -7,7 +7,8 @@ _:sparkles: :rocket: :metal: :octocat:_
 Number # | Title | Difficulty
 --|-------|-------------
 1| [two sum](../master/notes/1_twosum.md)| Easy
-
+2|[add two numbers](../master/code/2_add_two_numbers.java)|M
+3|[Longest Substring Without Repeating Characters](../3_Longest Substring Without Repeating Characters.py)|M
 
 
 ### Part 2(A coding web course)
