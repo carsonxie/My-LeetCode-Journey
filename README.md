@@ -8,8 +8,8 @@ Number # | Title | Difficulty
 --|--------------------|-------------
 1| [two sum](../master/notes/1_twosum.md)| Easy
 2| [add two numbers](../master/code/2_add_two_numbers.java)| Medium
-3| [Longest Substring Without Repeating Characters](../master/code/3_Longest Substring Without Repeating Characters.py)|Medium
-
+3| [Longest Substring Without Repeating Characters](../master/code/3_Longest Substring Without Repeating Characters.py) | Medium
+4|
 
 
 
